@@ -51,6 +51,8 @@ What sort of packages will there be, and what to expect with it?
 - exchange
 - strategy
 
+For a more detailed description of each of these packages, please take a look at doco/packages/README.md
+
 ## What's in it for me
 
 What would contributors to the project get out of doing so?
@@ -77,4 +79,4 @@ What would contributors to the project get out of doing so?
 Like this idea enough to tip?
 
 bitcoin:1NWuxuKgTmG8ABMbMoVv4MTqxtfzBH9osG
-[! bitcoin:1NWuxuKgTmG8ABMbMoVv4MTqxtfzBH9osG ](https://chart.googleapis.com/chart?cht=qr&chl=bitcoin%3A1NWuxuKgTmG8ABMbMoVv4MTqxtfzBH9osG&choe=UTF-8&chs=200x200)
+![bitcoin:1NWuxuKgTmG8ABMbMoVv4MTqxtfzBH9osG ](https://chart.googleapis.com/chart?cht=qr&chl=bitcoin%3A1NWuxuKgTmG8ABMbMoVv4MTqxtfzBH9osG&choe=UTF-8&chs=200x200)
